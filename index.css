@@ -1,0 +1,31 @@
+.login-button{
+    color: red; 
+    cursor: pointer;
+}
+.get-started-button{
+    background-color: rgb(229,9,20,1);
+    cursor: pointer;
+   font-size: 18px ;
+}
+
+.center-element{
+    text-align: center;
+    color: white;
+}
+
+.header-element{
+text-align: end;
+}
+
+body{
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    background:url('https://assets.nflxext.com/ffe/siteui/vlv3/cb17c41d-6a67-4472-8b91-cca977e65276/web/IN-en-20250505-TRIFECTA-perspective_03ae1a85-5dcf-4d20-a8a6-1e61f7ef73cb_large.jpg')
+}
+
+#Email{
+    font-size: 18px;
+}
+.netflix-logo{
+    color: rgb(229,9,20,1);
+    font-size: 50px;
+}
